@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "mySQL node store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccmar/bamazon.git"
+  },
+  "keywords": [
+    "mySQL",
+    "node"
+  ],
+  "author": "ccmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccmar/bamazon/issues"
+  },
+  "homepage": "https://github.com/ccmar/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
